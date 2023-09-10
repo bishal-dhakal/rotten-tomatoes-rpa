@@ -1,0 +1,10 @@
+{
+    "python.analysis.extraPaths": [
+        "c:/Users/bisha/Downloads/internship/rotten tomatoes/Example/."
+    ],
+    "python.terminal.activateEnvironment": false,
+    "[python]": {
+        "editor.defaultFormatter": "ms-python.autopep8"
+    },
+    "python.formatting.provider": "none"
+}
